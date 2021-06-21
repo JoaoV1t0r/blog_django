@@ -1,1 +1,8 @@
 env/
+blog/__pycache__/
+posts/__pycache__/
+categorias/__pycache__/
+comentarios/__pycache__/
+categorias/migrations/__pycache__/
+comentarios/migrations/__pycache__/ 
+posts/migrations/__pycache__/
